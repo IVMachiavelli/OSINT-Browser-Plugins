@@ -4,15 +4,15 @@ Firefox
 -------------
 ### LightBeam
 https://addons.mozilla.org/en-US/firefox/addon/lightbeam/?src=hp-dl-featured
-<p>Lightbeam allows you to track 3rd party websites that you interact with.</p>
+<p>Lightbeam is a Firefox add-on that enables you to see the first and third party sites you interact with on the Web. Using interactive visualizations, Lightbeam shows you the relationships between these third parties and the sites you visit.</p>
 
 ### Nimbus Screen Capture
 https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/?src=search
-<p>Nimbus is a great tool for anotating the web and taking screenshot for evidence collection.</p>
+<p>Edit screenshots and save images as local file or Google Drive. Annotate screenshots with different tools. Upload and share!</p>
 
 ### Distill Web Monitor (formerly AlertBox)
 https://addons.mozilla.org/en-US/firefox/addon/alertbox/?src=search
-<p>Distill monitors websites for changes.</p>
+<p>Monitor web page and feed for changes. Get SMS and email alerts when change is detected.</p>
 
 ### Link Gopher
 https://addons.mozilla.org/en-US/firefox/addon/link-gopher/?src=search
