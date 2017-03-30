@@ -48,7 +48,7 @@ https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/
 
 ### Wappalyzer
 https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/
-<p>Wappalyzer is a browser extension that identifies software on websites</p>
+<p>"Wappalyzer is a browser extension that identifies software on websites"</p>
 
 Firefox Privacy
 ----------------
