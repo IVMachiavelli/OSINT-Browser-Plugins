@@ -42,6 +42,10 @@ https://addons.mozilla.org/en-US/firefox/addon/image-zoom/
 https://addons.mozilla.org/en-US/firefox/addon/img2tab/
 <p>"Opens all images from a page into a new tabbed window. Great for image focused sites like reddit, 4chan, tumblr etc"</p>
 
+### TinEye Reverse Image Search
+https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/
+<p>"TinEye is a reverse image search engine. The extension adds a context menu item so you can search for an image to find out where it came from, how it is being used, if modified versions of the image exist, or to find higher resolution versions"</p>
+
 Firefox Privacy
 ----------------
 ### Ghostry
