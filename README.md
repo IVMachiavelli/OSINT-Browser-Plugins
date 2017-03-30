@@ -46,6 +46,10 @@ https://addons.mozilla.org/en-US/firefox/addon/img2tab/
 https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/
 <p>"TinEye is a reverse image search engine. The extension adds a context menu item so you can search for an image to find out where it came from, how it is being used, if modified versions of the image exist, or to find higher resolution versions"</p>
 
+### Wappalyzer
+https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/
+<p>Wappalyzer is a browser extension that identifies software on websites</p>
+
 Firefox Privacy
 ----------------
 ### Ghostry
