@@ -4,30 +4,49 @@ Firefox
 -------------
 ### LightBeam
 https://addons.mozilla.org/en-US/firefox/addon/lightbeam/?src=hp-dl-featured
-<p>Lightbeam is a Firefox add-on that enables you to see the first and third party sites you interact with on the Web. Using interactive visualizations, Lightbeam shows you the relationships between these third parties and the sites you visit.</p>
+<p>"Lightbeam is a Firefox add-on that enables you to see the first and third party sites you interact with on the Web. Using interactive visualizations, Lightbeam shows you the relationships between these third parties and the sites you visit"</p>
 
 ### Nimbus Screen Capture
-https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/?src=search
-<p>Edit screenshots and save images as local file or Google Drive. Annotate screenshots with different tools. Upload and share!</p>
+https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/
+<p>"Capture the whole web page, a part of it or the whole browser window, edit your screenshots in a very user-friendly interface and save the images to Google Drive"</p>
 
 ### Distill Web Monitor (formerly AlertBox)
-https://addons.mozilla.org/en-US/firefox/addon/alertbox/?src=search
-<p>Monitor web page and feed for changes. Get SMS and email alerts when change is detected.</p>
+https://addons.mozilla.org/en-US/firefox/addon/alertbox/
+<p>"Distill runs in your browser to check monitored pages for changes. Get instant alerts as soon as a change is detected"</p>
 
 ### Link Gopher
-https://addons.mozilla.org/en-US/firefox/addon/link-gopher/?src=search
-<p>Quickly pull all links from a website with no duplicates.</p>
+https://addons.mozilla.org/en-US/firefox/addon/link-gopher/
+<p>"Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for inspection or copy and paste into other systems"</p>
 
 ### Flag Fox
 <p>https://addons.mozilla.org/en-US/firefox/addon/flagfox/</p>
-<p>Displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more..</p>
+<p>"Displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more.."</p>
+
+### DownThemAll
+https://addons.mozilla.org/en-US/firefox/addon/downthemall/?src=search
+<p>"DownThemAll is fast, reliable and easy-to-use! It lets you download all the links or images contained in a webpage and much more: you can refine your downloads by fully customizable criteria to get only what you really want! Be in full control over your downloads, dedicated speed and number of parallel connections at any time. Use Metalinks or add mirrors manually to download a file from different servers at the same time."</p>
+
+Firefox Privacy
+----------------
+### Ghostry
+https://addons.mozilla.org/en-US/firefox/addon/ghostery/
+<p>"Ghostery lets you enjoy a cleaner, faster, safer browsing experience by giving you the control to make informed decisions about the personal data you share with the trackers on the sites you visit"</p>
+
+### Adblocker Ultimate 
+https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/?src=ss
+<p>Free and improved ad blocker. Completely remove ALL ads. No "acceptable" ads or whitelisted advertisers, block tracking, block malware!</p>
+> Note: Many adblockers make money by whitelisting websites, meaning they won't block all website. This is why you should use adbocker ultimate, it doesn't whitelist websites.
+
+### Random Agent Spoofer
+https://addons.mozilla.org/en-US/firefox/addon/random-agent-spoofer/?src=ss
+<p>Rotates complete browser profiles ( from real browsers / devices ) at a user defined time interval. It includes many extra privacy enhancing options"</p>
 
 Chrome / Chromium
 ---------------
 ### Distill
 https://chrome.google.com/webstore/detail/inlikjemeeknofckkjolnjbpehgadgge
-<p>Distill monitors websites for changes.</p>
+<p>"Distill runs in your browser to check monitored pages for changes. Get instant alerts as soon as a change is detected"</p>
 
 ### Lightshot
 https://chrome.google.com/webstore/detail/mbniclmhobmnbdlbpiphghaielnnpgdp
-<p>Lightshot allows you to annotate evidence and even has reverse image search features.</p>
+<p>"Lightshot is the fastest way to take a customizable screenshot. Simple interface, nothing useless and light weight"</p>
