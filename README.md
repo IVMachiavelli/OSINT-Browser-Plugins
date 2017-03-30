@@ -22,13 +22,17 @@ https://addons.mozilla.org/en-US/firefox/addon/link-gopher/
 <p>https://addons.mozilla.org/en-US/firefox/addon/flagfox/</p>
 <p>"Displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more.."</p>
 
-### Scrap Book
+### ScrapBook
 https://addons.mozilla.org/en-US/firefox/addon/scrapbook/
 <p>ScrapBook is a Firefox extension, which helps you to save Web pages and easily manage collections. Key features are lightness, speed, accuracy and multi-language support</p> 
 
 ### DownThemAll
 https://addons.mozilla.org/en-US/firefox/addon/downthemall/?src=search
 <p>"DownThemAll is fast, reliable and easy-to-use! It lets you download all the links or images contained in a webpage and much more: you can refine your downloads by fully customizable criteria to get only what you really want! Be in full control over your downloads, dedicated speed and number of parallel connections at any time. Use Metalinks or add mirrors manually to download a file from different servers at the same time."</p>
+
+### Imacros
+https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/
+<p>Automate Firefox. Record and replay repetitive tasks. If you're tired of manually visiting the same sites, filling out forms, downloading files and extracting data, then iMacros is for you! Save time, effort and money with iMacros browser automation!</pp>
 
 Firefox Privacy
 ----------------
