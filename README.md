@@ -87,4 +87,8 @@ https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfja
 https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
 <p>"Highlight or right-click on a section of text and click on Translate icon next to it to translate it to your language. Or, to translate the entire page you're visiting, click the translate icon on the browser toolbar"</p>
 
+### Web Scraper
+https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
+<p>"Web Scraper is a chrome browser extension built for data extraction from web pages. Using this extension you can create a plan (sitemap) how a web site should be traversed and what should be extracted. Using these sitemaps the Web Scraper will navigate the site accordingly and extract all data. Scraped data later can be exported as CSV"</p>
+
 </p>
