@@ -32,7 +32,15 @@ https://addons.mozilla.org/en-US/firefox/addon/downthemall/?src=search
 
 ### Imacros
 https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/
-<p>Automate Firefox. Record and replay repetitive tasks. If you're tired of manually visiting the same sites, filling out forms, downloading files and extracting data, then iMacros is for you! Save time, effort and money with iMacros browser automation!</pp>
+<p>Automate Firefox. Record and replay repetitive tasks. If you're tired of manually visiting the same sites, filling out forms, downloading files and extracting data, then iMacros is for you! Save time, effort and money with iMacros browser automation!</p>
+
+### Image Zoom
+https://addons.mozilla.org/en-US/firefox/addon/image-zoom/
+<p>"Adds zoom and rotation functionality for images"</p>
+
+### Img2tab
+https://addons.mozilla.org/en-US/firefox/addon/img2tab/
+<p>"Opens all images from a page into a new tabbed window. Great for image focused sites like reddit, 4chan, tumblr etc"</p>
 
 Firefox Privacy
 ----------------
