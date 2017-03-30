@@ -74,3 +74,11 @@ https://chrome.google.com/webstore/detail/inlikjemeeknofckkjolnjbpehgadgge
 ### Lightshot
 https://chrome.google.com/webstore/detail/mbniclmhobmnbdlbpiphghaielnnpgdp
 <p>"Lightshot is the fastest way to take a customizable screenshot. Simple interface, nothing useless and light weight"</p>
+
+### Frame by Frame
+https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio
+<p>"Watch Youtube Videos, frame by frame "</p>
+
+### Google Similar Pages
+https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej
+<p>Discover webpages similar to the page you're currently browsing.</p>
