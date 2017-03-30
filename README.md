@@ -77,8 +77,14 @@ https://chrome.google.com/webstore/detail/mbniclmhobmnbdlbpiphghaielnnpgdp
 
 ### Frame by Frame
 https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio
-<p>"Watch Youtube Videos, frame by frame "</p>
+<p>"Watch Youtube Videos, frame by frame"</p>
 
 ### Google Similar Pages
 https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej
-<p>Discover webpages similar to the page you're currently browsing.</p>
+<p>"Discover webpages similar to the page you're currently browsing"</p>
+
+### Google Translate 
+https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
+<p>"Highlight or right-click on a section of text and click on Translate icon next to it to translate it to your language. Or, to translate the entire page you're visiting, click the translate icon on the browser toolbar"</p>
+
+</p>
