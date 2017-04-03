@@ -2,6 +2,20 @@ OSINT-Browser-Plugins
 =======================
 Firefox
 -------------
+### RSS Fox
+https://addons.mozilla.org/en-US/firefox/addon/rss-ticker
+<p>"RSS Ticker loads your Live Bookmarks and scrolls their entries across your screen while you surf"</p>
+
+### Who stole my pictures?
+https://addons.mozilla.org/en-US/firefox/addon/who-stole-my-pictures/
+<p>"Search for copies of the images using Yandex.ru, Tineye.com, Google.com, Baidu.com and VK.com via right click menu"</p>
+
+### Search the current site
+https://addons.mozilla.org/en-US/firefox/addon/search-current-site/?src=cb-dl-created
+<p>"Searches the current website using search engine of your choice (DDG, Google,Yahoo,Bing)"</p>
+
+### 
+
 ### LightBeam
 https://addons.mozilla.org/en-US/firefox/addon/lightbeam/?src=hp-dl-featured
 <p>"Lightbeam is a Firefox add-on that enables you to see the first and third party sites you interact with on the Web. Using interactive visualizations, Lightbeam shows you the relationships between these third parties and the sites you visit"</p>
