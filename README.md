@@ -14,7 +14,9 @@ https://addons.mozilla.org/en-US/firefox/addon/who-stole-my-pictures/
 https://addons.mozilla.org/en-US/firefox/addon/search-current-site/?src=cb-dl-created
 <p>"Searches the current website using search engine of your choice (DDG, Google,Yahoo,Bing)"</p>
 
-### 
+### Search on YouTube
+https://addons.mozilla.org/en-US/firefox/addon/search-on-youtube-context-menu/?src=cb-dl-created
+<p>"Use the context menu (right click) to search on YouTube any text from other websites."</p>
 
 ### LightBeam
 https://addons.mozilla.org/en-US/firefox/addon/lightbeam/?src=hp-dl-featured
