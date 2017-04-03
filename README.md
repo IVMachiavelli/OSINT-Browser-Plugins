@@ -18,6 +18,10 @@ https://addons.mozilla.org/en-US/firefox/addon/search-current-site/?src=cb-dl-cr
 https://addons.mozilla.org/en-US/firefox/addon/search-on-youtube-context-menu/?src=cb-dl-created
 <p>"Use the context menu (right click) to search on YouTube any text from other websites."</p>
 
+### Bitref
+https://addons.mozilla.org/en-US/firefox/addon/bitref/?src=cb-dl-created
+<p>"BitRef will help you view the current balance of any Bitcoin address. Just type: "btc [space or tab] bitcoin_address" in Firefox's address bar. This is the easiest and fastest way to check balance of any Bitcoin address."</p>
+
 ### LightBeam
 https://addons.mozilla.org/en-US/firefox/addon/lightbeam/?src=hp-dl-featured
 <p>"Lightbeam is a Firefox add-on that enables you to see the first and third party sites you interact with on the Web. Using interactive visualizations, Lightbeam shows you the relationships between these third parties and the sites you visit"</p>
