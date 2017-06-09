@@ -64,6 +64,9 @@ Forgets nothing, keeps everything.
 #### [Distill](https://chrome.google.com/webstore/detail/inlikjemeeknofckkjolnjbpehgadgge)
 "Distill runs in your browser to check monitored pages for changes. Get instant alerts as soon as a change is detected"
 
+#### [Mostly Harmless](https://chrome.google.com/webstore/detail/mostly-harmless/glfepofdcehcfjcibmdaajdhioiigkmh)
+"Mostly Harmless is a Google Chrome extension for awesome redditors. It's open source, fully-functional, and a breeze to use!"
+
 #### [Lightshot](https://chrome.google.com/webstore/detail/mbniclmhobmnbdlbpiphghaielnnpgdp)
 "Lightshot is the fastest way to take a customizable screenshot. Simple interface, nothing useless and light weight"
 
